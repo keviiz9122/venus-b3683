@@ -1,0 +1,5 @@
+name: Verus
+main: me.levansj01.launcher.VerusLauncher
+version: 0.1
+loadBefore:
+ - VerusAPI
